@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A_univer\\\u0410\u041F\\code\\Lab_10.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5392943-60A0-4BC6-AB99-787564B4C236}|UnitTest1\\UnitTest1.vcxproj|D:\\A_univer\\\u0410\u041F\\code\\Lab_10.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5392943-60A0-4BC6-AB99-787564B4C236}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672A1EB0-BB8A-47F5-A6D3-F608D0CCAFA3}|Lab_10.1\\Lab_10.1.vcxproj|D:\\A_univer\\\u0410\u041F\\code\\Lab_10.1\\Lab_10.1\\Lab_10.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{672A1EB0-BB8A-47F5-A6D3-F608D0CCAFA3}|Lab_10.1\\Lab_10.1.vcxproj|solutionrelative:Lab_10.1\\Lab_10.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\A_univer\\\u0410\u041F\\code\\Lab_10.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\A_univer\\\u0410\u041F\\code\\Lab_10.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-05T09:50:11.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_10.1.cpp",
+              "DocumentMoniker": "D:\\A_univer\\\u0410\u041F\\code\\Lab_10.1\\Lab_10.1\\Lab_10.1.cpp",
+              "RelativeDocumentMoniker": "Lab_10.1\\Lab_10.1.cpp",
+              "ToolTip": "D:\\A_univer\\\u0410\u041F\\code\\Lab_10.1\\Lab_10.1\\Lab_10.1.cpp",
+              "RelativeToolTip": "Lab_10.1\\Lab_10.1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-05T08:53:19.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
